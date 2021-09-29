@@ -6,7 +6,7 @@ Z390-TOMAHAWK-RX590-OPENCORE-EFI
 * 主板：msi tomahawk z390
 * 无线网卡：BCM943602CS
 * 显卡：amd rx590
-* 声卡：monitor 09 usb / FIIO E10K-TC 解码器 usb
+* 声卡：板载声卡 / monitor 09 usb / FIIO E10K-TC 解码器 usb
 * 键盘：leqpold 静电容键盘 usb
 * 鼠标：雷蛇RC30 无线
 * 耳机：AKG K701
